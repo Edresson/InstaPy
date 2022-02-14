@@ -77,7 +77,7 @@ xpath["get_active_users"] = {
 
 xpath["get_buttons_from_dialog"] = {
     "follow_button": "//button/div[text()='Follow']",
-    "unfollow_button": "//button/div[text() = 'Following']",
+    "unfollow_button": "//button/div[text() = 'Unfollow']",
 }
 
 xpath["get_comment_input"] = {
